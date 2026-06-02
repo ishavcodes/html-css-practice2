@@ -178,3 +178,122 @@ nav #right a{
     background-color: #B8DCFF;
 }
 
+
+#page3{
+    height: 350px;
+    width: 100%;
+    background-color: #F0F8FF;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
+
+#page3 #one h1{
+    font-size: 90px;
+}
+
+#page3 #two{
+    height: 200px;
+}
+
+#page3 #two h1{
+    font-size: 35px;
+    font-family: "Lobster Two", sans-serif;
+    color: #5BA8E5;
+    margin-bottom: 15px;
+}
+
+#page3 #two p{
+    font-family: "Google Sans Flex", sans-serif;
+    margin-top: 17px;
+    font-size: 14px;
+    color: #607AB1;
+}
+
+
+#page4{
+    height: 610px;
+    width: 100%;
+    background-color: #FFF5F8;
+    display: flex;
+    align-items: center;
+    /* justify-content: center; */
+    flex-direction: column;
+}
+
+#page4 h1{
+    font-size: 40px;
+    font-family: "Lobster Two", sans-serif;
+    color: #FF8FAB;
+    margin-top: 80px;
+}
+
+#page4 p{
+    font-size: 13px;
+    margin-top: 14px;
+    color: #5A3A4A;
+    font-family: "Google Sans Flex", sans-serif;
+}
+
+#page4 form{
+    display: flex;
+    width: 450px;
+    height: 340px;
+    font-family: "Google Sans Flex", sans-serif;
+    flex-direction: column;
+}
+
+#page4 form h6{
+    margin-top: 20px;
+    font-size: 13px;
+    color: #B07080;
+    font-family: "Google Sans Flex", sans-serif;
+    margin-bottom: 3px;
+}
+
+#page4 form input{
+    width: 90%;
+    height: 45px;
+    border-radius: 12px;
+    border: 2px solid #FFD6E7;
+    padding-left: 15px;
+}
+
+#page4 form textarea{
+    width: 90%;
+    height: 90px;
+    border-radius: 12px;
+    border: 2px solid #FFD6E7;
+    padding: 15px;
+}
+
+#page4 form button{
+    margin-top: 23px;
+    font-family: "Google Sans Flex", sans-serif;
+    font-size: 14px;
+    width: 90%;
+    height: 55px;
+    border-radius: 50px;
+    background-color: #FF8FAB;
+    color: #F0F8FF;
+    border: none;
+    transition: all 0.6 ease;
+}
+
+
+
+#page4 form button:hover{
+    cursor: pointer;
+    background-color: #5A3A4A;
+}
+
+footer{
+    display: flex;
+    align-items: center;
+    color: #5A3A4A;
+    justify-content: center;
+    height: 60px;
+    font-family: "Google Sans Flex", sans-serif;
+    font-size: 12px;
+}
