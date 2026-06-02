@@ -3,7 +3,7 @@
 A pastel-themed personal webpage built with HTML and CSS only.
 
 ## Live Preview
-[Click here to view](https://yourusername.github.io/repository-name)
+[Click here to view](https://ishavcodes.github.io/html-css-practice2/)
 
 ## Sections
 - Navbar
